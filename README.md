@@ -1,3 +1,3 @@
 # niwanowa-ideas
 
-アイデアをissuesにて管理するようのリポジトリ
+アイデアをissuesにて管理する用のリポジトリ
