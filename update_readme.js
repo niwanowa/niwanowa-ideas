@@ -1,6 +1,11 @@
 const fs = require('fs');
 
-const issues = JSON.parse(process.env.GITHUB_EVENT_PATH);
+const fs = require('fs');
+
+const eventDataPath = process.env.GITHUB_EVENT_PATH;
+const eventData = fs.readFileSync(eventDataPath, 'utf8');
+
+const issues = JSON.parse(eventData);
 
 let readmeContent = fs.readFileSync('README.md', 'utf-8');
 
