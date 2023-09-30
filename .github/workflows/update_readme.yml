@@ -31,4 +31,4 @@ jobs:
         run: |
             git add README.md
             git commit -m "Update README with latest issues"
-            git push https://$GH_TOKEN@github.com/username/repository.git
+            git push https://$GH_TOKEN@github.com/niwanowa/niwanowa-ideas.git
