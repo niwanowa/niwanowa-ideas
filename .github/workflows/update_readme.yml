@@ -30,5 +30,6 @@ jobs:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
             git add README.md
+            git remote set-url origin https://github-actions:${GH_TOKEN}@github.com/niwanowa/niwanowa-ideas.git
             git commit -m "Update README with latest issues"
-            git push https://$GH_TOKEN@github.com/niwanowa/niwanowa-ideas.git
+            git push
