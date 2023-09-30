@@ -1,7 +1,5 @@
 const fs = require('fs');
 
-const fs = require('fs');
-
 const eventDataPath = process.env.GITHUB_EVENT_PATH;
 const eventData = fs.readFileSync(eventDataPath, 'utf8');
 
