@@ -3,5 +3,5 @@
 アイデアをissuesにて管理する用のリポジトリ
 
 <!-- ISSUE_LIST_START -->
-<!-- This section will be automatically updated by the GitHub Action -->
+- [ActionsでIssueが追加されるたびにREADMEを更新したい](https://github.com/niwanowa/niwanowa-ideas/issues/1)
 <!-- ISSUE_LIST_END -->
