@@ -25,10 +25,10 @@ jobs:
           git config user.name "${{ secrets.USERNAME }}"
           git config user.email "${{ secrets.USEREMAIL }}"
 
-          - name: Commit and Push Changes
-          env:
+      - name: Commit and Push Changes
+        env:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          run: |
+        run: |
             git add README.md
             git commit -m "Update README with latest issues"
             git push https://$GH_TOKEN@github.com/username/repository.git
