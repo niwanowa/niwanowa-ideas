@@ -4,10 +4,22 @@ on:
     types:
       - opened
       - edited
+      - closed
+      - reopened
+
+env:
+  GH_USERNAME: ${{ secrets.GH_USERNAME }}
+  GH_USEREMAIL: ${{ secrets.GH_USEREMAIL }}
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  REPOSITORY: ${{ secrets.REPOSITORY }} # e.g. niwanowa/niwanowa-ideas
 
 jobs:
   update_readme:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: .github/workflows/update_readme
+        
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
@@ -22,14 +34,14 @@ jobs:
 
       - name: Set Git Config
         run: |
-          git config user.name "${{ secrets.USERNAME }}"
-          git config user.email "${{ secrets.USEREMAIL }}"
+          git config user.name "$GH_USERNAME"
+          git config user.email "$GH_USEREMAIL"
 
       - name: Commit and Push Changes
-        env:
-            GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+            cd $GITHUB_WORKSPACE 
+            git diff | grep ""
             git add README.md
-            git remote set-url origin https://github-actions:${GH_TOKEN}@github.com/niwanowa/niwanowa-ideas.git
+            git remote set-url origin https://github-actions:$GH_TOKEN@github.com/$REPOSITORY.git
             git commit -m "Update README with latest issues"
             git push
