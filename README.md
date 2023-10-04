@@ -3,5 +3,7 @@
 アイデアをissuesにて管理する用のリポジトリ
 
 <!-- ISSUE_LIST_START -->
-- [ActionsでIssueが追加されるたびにREADMEを更新したい](https://github.com/niwanowa/niwanowa-ideas/issues/1)
+- [GitHubとWordPressを連携させたい](https://github.com/niwanowa/niwanowa-ideas/issues/3)
+- [techfeedについて知る](https://github.com/niwanowa/niwanowa-ideas/issues/2)
+<!-- github actions: Updated on 2023-10-04 13:23:45 UTC-->
 <!-- ISSUE_LIST_END -->
