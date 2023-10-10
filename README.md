@@ -3,6 +3,7 @@
 アイデアをissuesにて管理する用のリポジトリ
 
 <!-- ISSUE_LIST_START -->
+- [Sassについて知る](https://github.com/niwanowa/niwanowa-ideas/issues/12)
 - [WSLの有効化](https://github.com/niwanowa/niwanowa-ideas/issues/11)
 - [rainについて知る](https://github.com/niwanowa/niwanowa-ideas/issues/10)
 - [洗剤とか調味料の在庫管理アプリを作りたい](https://github.com/niwanowa/niwanowa-ideas/issues/9)
@@ -11,5 +12,5 @@
 - [秘密の NTT 電話局、フレッツ光、およびインターネット入門 (1)を読む](https://github.com/niwanowa/niwanowa-ideas/issues/5)
 - [wordpressからhugoへ移行する](https://github.com/niwanowa/niwanowa-ideas/issues/4)
 - [techfeedについて知る](https://github.com/niwanowa/niwanowa-ideas/issues/2)
-<!-- github actions: Updated on 2023-10-10 01:42:05 UTC-->
+<!-- github actions: Updated on 2023-10-10 07:18:51 UTC-->
 <!-- ISSUE_LIST_END -->
