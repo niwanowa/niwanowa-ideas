@@ -11,6 +11,5 @@
 - [rss.niwanowa.tipsを作る](https://github.com/niwanowa/niwanowa-ideas/issues/8)
 - [ブラウザ拡張機能を作るためのReactフレームワーク『Plasmo』を読む](https://github.com/niwanowa/niwanowa-ideas/issues/6)
 - [秘密の NTT 電話局、フレッツ光、およびインターネット入門 (1)を読む](https://github.com/niwanowa/niwanowa-ideas/issues/5)
-- [techfeedについて知る](https://github.com/niwanowa/niwanowa-ideas/issues/2)
-<!-- github actions: Updated on 2023-10-18 07:56:32 UTC-->
+<!-- github actions: Updated on 2023-10-20 03:16:12 UTC-->
 <!-- ISSUE_LIST_END -->
