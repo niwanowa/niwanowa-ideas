@@ -3,6 +3,7 @@
 アイデアをissuesにて管理する用のリポジトリ
 
 <!-- ISSUE_LIST_START -->
+- [HHKBの入荷通知をしたい](https://github.com/niwanowa/niwanowa-ideas/issues/17)
 - [ツイッターカードを表示するdiscordbotを作る](https://github.com/niwanowa/niwanowa-ideas/issues/16)
 - [競馬AI系のものをまとめる](https://github.com/niwanowa/niwanowa-ideas/issues/15)
 - [エンジニアがデザインシステムの構築に向けて、UX改善と両立して取り組んだ話を読む](https://github.com/niwanowa/niwanowa-ideas/issues/14)
@@ -12,5 +13,5 @@
 - [rss.niwanowa.tipsを作る](https://github.com/niwanowa/niwanowa-ideas/issues/8)
 - [ブラウザ拡張機能を作るためのReactフレームワーク『Plasmo』を読む](https://github.com/niwanowa/niwanowa-ideas/issues/6)
 - [秘密の NTT 電話局、フレッツ光、およびインターネット入門 (1)を読む](https://github.com/niwanowa/niwanowa-ideas/issues/5)
-<!-- github actions: Updated on 2023-10-25 11:21:49 UTC-->
+<!-- github actions: Updated on 2023-10-26 11:33:27 UTC-->
 <!-- ISSUE_LIST_END -->
