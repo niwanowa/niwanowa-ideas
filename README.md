@@ -5,7 +5,6 @@
 <!-- ISSUE_LIST_START -->
 - [情報Ⅰ本ちょっと読む](https://github.com/niwanowa/niwanowa-ideas/issues/25)
 - [OpenAI DevDayの内容を追う](https://github.com/niwanowa/niwanowa-ideas/issues/24)
-- [Qiita一人アドベントカレンダーをやる](https://github.com/niwanowa/niwanowa-ideas/issues/23)
 - [TodoをAIにブレイクダウンしてもらうものを使ってみる Magic ToDo - GoblinTools](https://github.com/niwanowa/niwanowa-ideas/issues/21)
 - [AWS SAMを使ってみる](https://github.com/niwanowa/niwanowa-ideas/issues/19)
 - [ウマ娘の因子をよしなにつなげるやつを作る](https://github.com/niwanowa/niwanowa-ideas/issues/18)
@@ -17,5 +16,5 @@
 - [rss.niwanowa.tipsを作る](https://github.com/niwanowa/niwanowa-ideas/issues/8)
 - [ブラウザ拡張機能を作るためのReactフレームワーク『Plasmo』を読む](https://github.com/niwanowa/niwanowa-ideas/issues/6)
 - [秘密の NTT 電話局、フレッツ光、およびインターネット入門 (1)を読む](https://github.com/niwanowa/niwanowa-ideas/issues/5)
-<!-- github actions: Updated on 2023-11-06 13:59:41 UTC-->
+<!-- github actions: Updated on 2023-11-07 07:51:21 UTC-->
 <!-- ISSUE_LIST_END -->
