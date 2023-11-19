@@ -14,5 +14,5 @@
 - [洗剤とか調味料の在庫管理アプリを作りたい](https://github.com/niwanowa/niwanowa-ideas/issues/9)
 - [rss.niwanowa.tipsを作る](https://github.com/niwanowa/niwanowa-ideas/issues/8)
 - [ブラウザ拡張機能を作るためのReactフレームワーク『Plasmo』を読む](https://github.com/niwanowa/niwanowa-ideas/issues/6)
-<!-- github actions: Updated on 2023-11-19 12:43:04 UTC-->
+<!-- github actions: Updated on 2023-11-19 12:43:13 UTC-->
 <!-- ISSUE_LIST_END -->
