@@ -3,6 +3,5 @@
 アイデアをissuesにて管理する用のリポジトリ
 
 <!-- ISSUE_LIST_START -->
-- [copilot周りを学びなおしたい](https://github.com/niwanowa/niwanowa-ideas/issues/42)
-<!-- github actions: Updated on 2024-11-21 01:59:24 UTC-->
+<!-- github actions: Updated on 2024-11-22 12:38:49 UTC-->
 <!-- ISSUE_LIST_END -->
