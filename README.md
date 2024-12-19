@@ -3,5 +3,6 @@
 アイデアをissuesにて管理する用のリポジトリ
 
 <!-- ISSUE_LIST_START -->
-<!-- github actions: Updated on 2024-12-14 11:00:49 UTC-->
+- [各クラウドのコスト通知アプリを作る](https://github.com/niwanowa/niwanowa-ideas/issues/44)
+<!-- github actions: Updated on 2024-12-19 14:54:46 UTC-->
 <!-- ISSUE_LIST_END -->
